@@ -1,3 +1,5 @@
 # Tic-Tac-Toe Game using Minimax Algorithm
 
-The main motive is to use Minimax algorithm to build an unbeatable Tic Tac Toe game powered by AI.
+This is a Tic-Tac-Toe Game implemented using Minimax algorithm. The motive was to build an unbeatable Tic Tac Toe game using this algorithm.
+
+Access the application through http://subhendu-poddar.me/tic-tac-toe/
